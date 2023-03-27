@@ -22,8 +22,7 @@ body {
 .header{
     text-align: center;
     background-color: rgb(236, 199, 205);
-    border-style:groove;
-    border-width: 5PX;
+   
 }
  header h1{
     font-size: 3.5rem;
